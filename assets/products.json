@@ -1,0 +1,32 @@
+{
+    "1": {
+        "id": "1",
+        "interest": 0.05,
+        "name": "Car",
+        "min_amount": 1000,
+        "max_amount": 30000,
+        "min_tenure": 1,
+        "max_tenure": 24,
+        "image": "public/images/travel-1962321_960_720 1.png"
+    },
+    "2": {
+        "id": "2",
+        "interest": 0.07,
+        "name": "House",
+        "min_amount": 2000,
+        "max_amount": 90000,
+        "min_tenure": 1,
+        "max_tenure": 24,
+        "image": "public/images/travel-1962321_960_720 1.png"
+    },
+    "3": {
+        "id": "3",
+        "interest": 0.04,
+        "name": "Personal loan",
+        "min_amount": 3000,
+        "max_amount": 100000,
+        "min_tenure": 1,
+        "max_tenure": 24,
+        "image": "public/images/travel-1962321_960_720 1.png"
+    }
+}
